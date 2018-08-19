@@ -2,7 +2,7 @@
 
 ## Academy of Py
 
-This project analyzes, interpretes the district-wide math and reading test results. 
+This project analyzes, interprets the district-wide math and reading test results. 
 The final report includes:
 
 * Table of District Summary
@@ -17,7 +17,7 @@ The final report includes:
 
 This project was completed using the pandas library and Jupiter Notebook.
 
-Files includes within this projects:
+Files included within this projects:
 
 * this README.md
 * PyCitySchools.ipynb 

@@ -2,14 +2,14 @@
 
 ## Academy of Py
 
-This project analyzes, interprets the district-wide math and reading test results. 
+This project analyzes and interprets the standardized test scores in an imagenary district. 
 The final report includes:
 
 * Table of District Summary
 * Table of School Summary
 * Top Performing Schools (By Passing Rate)
 * Bottom Performing Schools (By Passing Rate)
-* Math Scores by Grade**
+* Math Scores by Grade
 * Reading Scores by Grade
 * Scores by School Spending
 * Scores by School Size
